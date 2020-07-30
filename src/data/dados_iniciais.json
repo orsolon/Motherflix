@@ -1,0 +1,185 @@
+{
+  "categorias": [
+    {
+      "titulo": "Baby",
+      "link": "https://www.youtube.com/watch?v=VJQaBK70f24",
+      "cor": "#B541B3",
+      "link_extra": {
+        "text": "Primeiro Ano",
+        "url": "#"
+      },
+      "videos": [
+        {
+          "titulo": "Desenhos para criançada na quarentena!",
+          "url": "https://www.youtube.com/watch?v=kLYcvnfivAk"
+        },
+        {
+          "titulo": "Galinha Pintadinha",
+          "url": "https://www.youtube.com/watch?v=VJQaBK70f24"
+        },
+        {
+          "titulo": "Baby shark",
+          "url": "https://www.youtube.com/watch?v=y8sbCBYEqNo&t=1s"
+        },
+        {
+          "titulo": "Mundo Bita",
+          "url": "https://www.youtube.com/watch?v=9WFYuIu7BKA"
+        },
+        {
+          "titulo": "Musicas Infantis",
+          "url": "https://www.youtube.com/watch?v=SybATgnDGv0"
+        },
+        {
+          "titulo": "Patati Patata",
+          "url": "https://www.youtube.com/watch?v=2UE02eff9JY"
+        },
+        {
+          "titulo": "Seu Lobato",
+          "url": "https://www.youtube.com/watch?v=6QtzEj0VvMU"
+        },
+        {
+          "titulo": "Canções de Ninar",
+          "url": "https://www.youtube.com/watch?v=zcZck3bq5Ac"
+        }        
+      ]
+    },
+    {
+      "titulo": "Boys",
+      "cor": "#4B7A90",
+      "link_extra": {
+        "text": "",
+        "url": "https://www.youtube.com/watch?v=S06VsWkK-VM"
+      },
+      "videos": [
+        {
+          "titulo": "Homem Aranha",
+          "url": "https://www.youtube.com/watch?v=S06VsWkK-VM"
+        },
+        {
+          "titulo": "PJ MAx",
+          "url": "https://www.youtube.com/watch?v=x3qJIFdZzhQ"
+        },
+        {
+          "titulo": "Paw Patrol",
+          "url": "https://www.youtube.com/watch?v=VXzPicGH5sU"
+        },
+        {
+          "titulo": "George o curioso",
+          "url": "https://www.youtube.com/watch?v=lkHRXBR37aU"
+        }, 
+        {
+          "titulo": "Tomas",
+          "url": "https://www.youtube.com/watch?v=MEQ6ej6F1NY"
+        }
+      ]
+    },
+    {
+      "titulo": "Girl",
+      "cor": "#FF8F84",
+      "link_extra": {
+        "text": "",
+        "url": "https://www.youtube.com/watch?v=wMQ26bzwD_Y"
+      },
+      "videos": [
+        {
+          "titulo": "Moranguinho",
+          "url": "https://www.youtube.com/watch?v=wMQ26bzwD_Y"
+        },
+        {
+          "titulo": "Barbie",
+          "url": "https://www.youtube.com/watch?v=VhDjmg3v7ac"
+        },
+        {
+          "titulo": "Polly",
+          "url": "https://www.youtube.com/watch?v=wC6yOmZTrUs"
+        },
+        {
+          "titulo": "Dora",
+          "url": "https://www.youtube.com/watch?v=GgMK0_JalKA"
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "#4682B4",
+      "videos": [
+        {
+          "titulo": "Princesas",
+          "url": "https://www.youtube.com/watch?v=rbVYVO48YYY"
+        },
+        {
+          "titulo": "Turma da Monica",
+          "url": "https://www.youtube.com/watch?v=M5Mof0JAUI0"
+        },
+        {
+          "titulo": "Lino uma aventura",
+          "url": "https://www.youtube.com/watch?v=fZ5LgjInyaA"
+        },
+        {
+          "titulo": "101 Dalmatas",
+          "url": "https://www.youtube.com/watch?v=nvZ1VBLJ700"
+        }
+      ]
+    },
+    {
+      "titulo": "Educativos",
+      "cor": "#48D1CC",
+      "link_extra": {
+        "text": "",
+        "url": "https://www.youtube.com/watch?v=VbvVC8_Rp54"
+      },
+      "videos": [
+        {
+          "titulo": "ABC",
+          "url": "https://www.youtube.com/watch?v=VbvVC8_Rp54"
+        },
+        {
+          "titulo": "DEF",
+          "url": "https://www.youtube.com/watch?v=8cBPScRXYtM"
+        },
+        {
+          "titulo": "frutas",
+          "url": "https://www.youtube.com/watch?v=u3NwcdAMMBI"
+        },
+        {
+          "titulo": "numeros",
+          "url": "https://www.youtube.com/watch?v=O6uhssemxeg"
+        },
+        {
+          "titulo": "Cores",
+          "url": "https://www.youtube.com/watch?v=AuRZ3oQ4rEM"
+        }
+      ]
+    },
+    {
+      "titulo": "Inglês para crianças",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "",
+        "url": "https://www.youtube.com/watch?v=hoSsui_lHpQ"
+      },
+      "videos": [
+        {
+          "titulo": "Ingles",
+          "url": "https://www.youtube.com/watch?v=hoSsui_lHpQ"
+        },
+        {
+          "titulo": "expressions",
+          "url": "https://www.youtube.com/watch?v=_TuZOTyggFQ"
+        },
+        {
+          "titulo": "Saudações",
+          "url": "https://www.youtube.com/watch?v=DGvhHCn72E0"
+        },
+        {
+          "titulo": "Good morning",
+          "url": "https://www.youtube.com/watch?v=8irSFvoyLHQ"
+        },
+        {
+          "titulo": "Story",
+          "url": "https://www.youtube.com/watch?v=l4dCByK0TN4"
+        }
+      ]
+    }
+  ]
+}
