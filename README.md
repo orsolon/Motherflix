@@ -7,7 +7,7 @@
 
 
 ### O objetivo dessa imersão foi cada um fazer a sua versão no Netflix 
-05 aulas utilizando React
+* 05 aulas utilizando React
 
 1. O que é React e componentes
 2. Roteamento e State
