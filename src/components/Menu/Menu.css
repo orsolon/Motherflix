@@ -23,7 +23,7 @@
   padding-left: 5%;
   padding-right: 5%;
 
-  background: #142B43;
+  background:#141414;
   border-bottom: 2px solid #B541B3;
 }
 body {
@@ -32,7 +32,7 @@ body {
 }
 @media (max-width: 800px) {
   .Menu {
-    height: 40px;
+    height: 58px;
     justify-content: center;
   }
   body {
@@ -67,7 +67,7 @@ body {
     left: 0;
     right: 0;
     bottom: 0;
-    background: var(--primary);
+    background: #B541B3;
     border-radius: 0;
     border: 0;
     text-align: center;
